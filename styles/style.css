@@ -1,0 +1,25 @@
+a:hover{
+    text-decoration: none;
+}
+.bg-roxo{
+    background-color: #7e459b;
+}
+
+nav a:hover {
+    font-weight: 500;
+}
+.imagem-carousel{
+    object-fit: cover;
+    object-position: 0 40%;
+    height: 65vh;
+}
+.rede-sociais span{
+    color:#000;
+}
+.rede-sociais i{
+    color: #7e459b;
+}
+.rede-sociais span:hover{
+    font-weight: 500;
+    color: #7e459b;
+}
