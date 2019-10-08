@@ -23,3 +23,17 @@ nav a:hover {
     font-weight: 500;
     color: #7e459b;
 }
+.imagem-hab{
+    font-size: 5vh;
+}
+.tamanho-card {
+    width: 18rem;
+}
+.imagem-cards{
+    object-fit: cover;
+    object-position: top;
+    height:40vh;
+}
+.footer span{
+    color: #7e459b;
+}
